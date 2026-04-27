@@ -45,7 +45,7 @@ Recursos adicionales
 
 Se adjuntan los siguientes recursos para complementar la documentación del proyecto:
 
-Manual de usuario
+Manual de uso
 Archivo APK para instalación de la aplicación
 
 Puedes acceder a ambos en el siguiente enlace:
